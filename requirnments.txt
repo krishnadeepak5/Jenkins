@@ -1,0 +1,12 @@
+requirements.txt
+
+We'll use pytest for testing as it provides better reporting,
+
+even though the tests are written using standard unittest syntax.
+
+pytest
+pytest-html
+
+Optionally, add a linter like flake8 for a 'build' step
+
+flake8
