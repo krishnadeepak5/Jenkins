@@ -1,4 +1,5 @@
-# app.py
+# Testing the automated build trigger from GitHub.
+
 def calculate_area(length, width):
     """
     Calculates the area of a rectangle.
