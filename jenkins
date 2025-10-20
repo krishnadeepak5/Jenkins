@@ -1,9 +1,3 @@
-// Jenkinsfile
-
-/*
-This is a declarative pipeline script for Jenkins.
-It defines the stages required to build and test the Python application.
-
 Setup steps on Jenkins:
 1. Ensure the Jenkins agent has Python and pip available.
 2. Configure the Jenkins job as a 'Pipeline' job.
